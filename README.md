@@ -4,7 +4,7 @@
  Technical Highlights
 
 - Developed a real-time aerial tracking method for UAVs, drones, and aircraft using the deep learning–based CNN model **YOLOv8 (Ultralytics)**.
-- Exported the trained model to **ONNX** and deployed it within a **Visual C++ inference pipeline**, achieving over **30% improvement in tracking stability**.
+- Exported the trained model to **ONNX** for inference
 - Applied machine learning and data science techniques including:
   - Dataset preprocessing  
   - Confidence-score filtering  
