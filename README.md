@@ -1,4 +1,4 @@
-![Tracking Demo](tracking_results/demo.gif)
+![Tracking Demo](tracking_results/output.gif)
 
   
  Technical Highlights
